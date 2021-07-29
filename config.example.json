@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "messages": {
+        "guildId": {
+            "default": "Welcome %member% !",
+            "channelId": "Special welcome, %member% ;)"
+        }
+    }
+}
